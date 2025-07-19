@@ -1,4 +1,8 @@
-# 🏦 Loan Eligibility Prediction AI Model
+#h1 🏦 Loan Eligibility Prediction AI Model
+
+🔗 🚀 Live Demo 
+[Link Text](20scorepredictorbyzaidnaeem.streamlit.app)
+
 
 ![screenshot](gitimg.png)
 
